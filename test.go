@@ -1,9 +1,4 @@
-package main
-
-func main() {
-	x := 1
-
-}    ekr ktao eiaao ktao  ieaow kwesiao  ktao "" :;, 
+ekr ktao eiaao ktao  ieaow kwesiao  ktao "" :;, 
 		zkxwc kxc eiaaoeiaao eiaao eiaao
     ,.eiaotao eao 
 	'' "" 
@@ -23,3 +18,91 @@ func main() {
 	^@  ^$%&!?#!!!????
 	@@@^^======^^@//\\!?&$%&=^@
 	^^$&#?!--
+	itsotartsoostssssrrntnsouuuuuuuuuuuuuuuvoooooooooooosrntsrt
+	dd123456dmjtnswry
+	全角 hannkaku
+	11dmj45 56 ns +-*/ .. ::;;
+	全角 の renshuu 
+	zenkaku no rennshuu wo siteimasu.
+	kaigyou to supe-su no nyuuryoku ni nareru made
+	jikan ga kakarisou desu
+	sikasi hairetu tositeha saiteki nanodeha naideshouka
+	sibaraku tudukete keikawo mitemimashou.
+	全角の練習をしています。
+	改行とスペースの入力に慣れるまで
+	時間がかかりそうです。
+	しかし、配列としては最適なのではないでしょうか。
+	暫く続けて、経過をみてみましょう。
+	
+	次の課題を列挙してみます。
+	1. 漢字変換をスムーズにしたい。上下の矢印へのアクセス。layer4へのアクセス。
+	2. カタカナへの変換。F7へのアクセス。Fは、layer3へのアクセス。
+	3. 半角記号。
+	4. そういえば全角記号はどうなるのか。
+
+	test....
+	^^~~~'' "" () {} [] `` 
+	???!!!!!@@@@@@/////////@@@//_/\\\\/\amttntn/\___
+	/_|___@@@//\\\\/\_|<>
+	(){}[]'''""""''
+	""
+	''
+	:
+	"" '' () {} [] "
+	__@/\|
+	カタカナヘノヘンカンハ、IトTヲ、ドウジニ
+	オスコトデ、ジツゲンデキル。
+	コレハ、layer3ヘノアクセスト、F7ヘノ
+	アクセスヲジツゲンスルコトデ、サイゲンシテイル。
+	ちなみに、F6は、 I+Kであるが、これはひらがなへのへんかんをじっしする。
+	全角モードで、記号を入力してみよう。
+	＠＿｜・・・？！
+	お、入れられるぞ！
+	半角と異なるのは、￥￥￥￥と\、、、って、あれ、合ってるじゃないか。
+	・・・・・
+	あ、わかった。/と・が対応しているのか。
+	はあ、少し疲れたぞ。おなかも空いてきた。
+	何か食べようかな。またカップ麺にしようか。楽だし。
+	でも、カレーの具材を買ったから、カレーを作れるんだよなあ。
+	どうしよっかな。
+	
+	j
+	 
+	45655555555555444444444****---++44444555
+	ttns456t6sssn4562tnstnsmmjjmnnnnmmnsnrntkkrttmsmmmm7894466----smm
+	666688877456
+	aaaaa44 686455123/4eiaoえああいああああああ｛＿
+	@__||//\\\/\
+ 
+	@\/\___________
+	=@=
+	&%?!@=@$\__/\/\----*+/////////+-*/5555254@\/@__
+	eeeeeee456123tnsr45678914646512355522ttnnrreiaoeiaolu,eiao,.
+	1111ddddd 
+	eeee444561234561236844582456
+	4444nnnmmdjsa<>=-=:*"""*:*==-o-======="'"
+	'""'''''"",.<>;'+'+++,.<>;'*"**
+	,.<>;':""' 
+	='''';+=+=+=+'<>' =++-=++=-+-+=-;++-=;;++
+	-;:'""'+-''''><<>/:;:-"><>" ;+-;+++++======-;-:::+++-========
+	=:****===:::***/??////
+	:*/:&==---===-=-
+	-+-+o***///::""*/&&&
+	++-+
+	aoaoaoaaoaoa666444tsnm56213tsstssnnnmmmmstststststststs78943164tstrnsstnmj
+	ttttt44444445555rrnm5nssntns21234564otnasti
+	tssrr444123123nsnhstns888652133tnsrssststttttts
+	t()fwfwtntn46524682
+	dmj1356466446trsntsd456tsnsn
+	tsnmrsssssuuaaommm31415003.......79789
+	sssstst___!?||\\\////%%%&&****++:::"">>
+	,.,.<>444,.44444,.4,.<>444444444444444444444ttt44444444sssss44444,.
+	ttt<><>44t!?!#<>||`&*+'"""""''@@```@&&***
+	''""+++---======-==\\%?\%/;v*/;;/////
+	:;"''" 
+	tttttTTTTTTTTTTTtttttttttnmaaa
+	tttt
+	uuuu**@@&*\%/;;+'|@&*!?<'zzzzqqqqq
+	aaaaaa
+
+	akohogehoge
