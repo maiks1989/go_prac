@@ -1,1 +1,1 @@
-for my practicing golang.
+go lang exersize
