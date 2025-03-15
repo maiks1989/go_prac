@@ -1,3 +1,4 @@
+// 記号と数字の入力練習
 package main
 
 import (
@@ -7,6 +8,8 @@ import (
 )
 
 func main() {
+	time_start := time.Now().UnixNano()
+
 	for i := 0; i < 5; i++ {
 		// 出題する記号の列挙
 		PERTS := [...]string{
@@ -26,12 +29,20 @@ func main() {
 			ques += PERTS[rand.Intn(len(PERTS))]
 		}
 		// 出題
-		fmt.Println(ques)
+		fmt.Println("  " + ques)
+		fmt.Print(">>")
 		var ans string
 		fmt.Scan(&ans)
 		// 正誤判定
 		if ques != ans {
-			fmt.Println("!!!!!!!!!!!! WRONG !!!!!!!!!!!!!!")
+			fmt.Println("!!!! FAIL !!!! PENALTY +5 sec !!!!")
 		}
 	}
+
+	time_end := time.Now().UnixNano()
+	time_record_sec := int64(time.Duration(time_end-time_start) / time.Second)
+
+	fmt.Println("##############################")
+	fmt.Println("### RECORD: ", time_record_sec, "SECONDS  ###")
+	fmt.Println("##############################")
 }

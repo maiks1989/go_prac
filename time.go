@@ -2,14 +2,12 @@ package main
 
 import (
 	"fmt"
-	"reflect"
 	"time"
 )
 
 func main() {
-	t1 := time.Now().UnixNano()
-	fmt.Println(reflect.TypeOf(t1))
-	t2 := time.Now().UnixNano()
-	fmt.Println(t2 - t1)
+	ns := 5000000000 // 5秒分のナノ秒
+	seconds := int64(time.Duration(ns) / time.Second)
 
+	fmt.Println(seconds) // 5
 }
